@@ -9,3 +9,5 @@ If theres demand I will work on modifying the swiping process to accomodate for 
 # Requirements
 chromedriver.exe >= 10
 
+# Running
+Before running the program put your username and password in the labeled areas.
